@@ -6,6 +6,6 @@ puts "\"Hello" + "#{a}!\""
 
 
 
-#puts "\"Hello manu!\""
+puts "\"Hello manu!\""
 
 
